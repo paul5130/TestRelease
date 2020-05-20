@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>healthconn.com.vvip</string>
+				<string>healthconn.app.questionnaire</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Initial</string>
+				<string>Questionnaire</string>
 			</dict>
 		</dict>
 	</array>
